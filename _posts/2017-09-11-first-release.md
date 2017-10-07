@@ -28,7 +28,7 @@ format and data in simple table format. However, number of file formats than can
 I hope you will like *jag* and find it usefull in everyday routine work. Feel free to post your comments, bug reports and wishes here and at [github](https://github.com/seleznevae/jag/issues).
 
 
-
+![first_release](https://github.com/seleznevae/jag.org/blob/gh-pages/img/first_release.jpg)
 
 
 
