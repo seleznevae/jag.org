@@ -21,6 +21,7 @@ description: just a grapher
 navbar-links:
   Home: ""
   About jag: "aboutjag"
+  Gallery: "gallery"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
