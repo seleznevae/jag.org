@@ -23,7 +23,9 @@ At the moment *jag* supports data *.csv
 format and data in simple table format. However, number of file formats than can be loaded may be extended by a user with custom plugins.
 
 
+## Wishes
 
+I hope you will like *jag* and find it usefull in everyday routine work. Feel free to post your comments, bug reports and wishes here and at [github](https://github.com/seleznevae/jag/issues).
 
 
 
