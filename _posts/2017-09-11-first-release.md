@@ -15,7 +15,7 @@ I am happy to announce first official jag release.
 
 **Jag** is a simple graphing application which can be used to create simple 2D plots. No bar charts, 3D graphs, surfaces, maps... **Only simple 2D plots!** So according to one of UNIX principles it does only one thing, but tries to do it well. 
 
-Jag was initially designed for engineers who spend a bunch of time analyzing results of mathematical modeling so that they can get most out of their data. So the main goal was to simplify and speed up graph creation and layout manipulations. 
+Jag was initially designed for engineers who spend a bunch of time analyzing results of mathematical modeling so that they can get most out of their data. So the main goal was to simplify and speed up graph creation and layout manipulations. It enables to create pretty nice plots in a few seconds. See [getting started](https://github.com/seleznevae/jag/issues)
 
 
 
@@ -27,10 +27,10 @@ format and data in simple table format. However, number of file formats than can
 
 ## Wishes
 
-I hope you will like *jag* and find it usefull in everyday routine work. Feel free to post your comments, bug reports and wishes here and at [github](https://github.com/seleznevae/jag/issues).
+I hope you will like **jag** and find it usefull in everyday routine work. Feel free to post your comments, bug reports and wishes here and at [github](https://github.com/seleznevae/jag/issues).
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/seleznevae/jag/releases">Get Started!</a>
+  <a class="btn btn-primary btn-lg get-started-btn" href="https://github.com/seleznevae/jag/releases">Download</a>
 </div>
 
 
