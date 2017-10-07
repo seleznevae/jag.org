@@ -7,10 +7,6 @@
 url: "http://seleznevae.github.io/jag.org"
 baseurl: "/jag.org"
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
@@ -23,6 +19,7 @@ description: just a grapher
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   About jag: "aboutjag"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
