@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gallery
-subtitle: Some examples of jag usage
+title: Some examples of jag usage
+subtitle: #Some examples of jag usage
 ---
 
 My name is Inigo Montoya. I have the following qualities:
@@ -11,6 +11,15 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
-### my history
+### Basic usage
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<img src="../img/gallery/gallery_1.png" style="width:100%;" alt="Gallery first picture" />
+
+
+### Events with fill and arrows with comments
+
+<img src="../img/gallery/gallery_3.jpg" style="width:100%;" alt="Gallery second picture" />
+
+### Sophisticated layout with different markers on the graphs
+
+<img src="../img/gallery/gallery_3.jpg" style="width:100%;" alt="Gallery third picture" />
