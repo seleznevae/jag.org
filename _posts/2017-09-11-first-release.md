@@ -6,8 +6,8 @@ subtitle: jag v.0.1.0 released
 
 I am happy to announce first official jag release. 
 
-<img src="https://github.com/seleznevae/jag.org/img/first_release.jpg" alt="Drawing" style="width: 400px;"/>
-![first_release](https://github.com/seleznevae/jag.org/img/first_release.jpg)
+<img src="/img/first_release.jpg" alt="Drawing" style="width: 400px;"/>
+![first_release](https://github.com/seleznevae/jag.org/blob/gh-pages/img/first_release.jpg)
 
 ## Jag in a nutshell 
 
