@@ -4,6 +4,48 @@ title: First release
 subtitle: jag v.0.1.0 released
 ---
 
+I am happy to announce first official jag release. 
+
+<img src="https://github.com/seleznevae/jag.org/img/first_release.jpg" alt="Drawing" style="width: 400px;"/>
+![first_release](https://github.com/seleznevae/jag.org/img/first_release.jpg)
+
+## Jag in a nutshell 
+
+**Jag** is a simple graphing application which can be used to create simple 2D plots. No bar charts, 3D graphs, surfaces, maps... **Only simple 2D plots!** So according to one of UNIX principles it does only one thing, but tries to do it well. 
+
+Jag was initially designed for engineers who spend a bunch of time analyzing results of mathematical modeling so that they can get most out of their data. So the main goal was to simplify and speed up graph creation and layout manipulations. 
+
+
+
+## Supported data formats 
+
+At the moment *jag* supports data *.csv
+format and data in simple table format. However, number of file formats than can be loaded may be extended by a user with custom plugins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Jag in a nutshell
+
+Jag is a simple grapher. It can only be used to create simple 2D plots. No barplots, 3D graphs, surfaces, maps. **Only simple 2D plots!** So according to one of UNIX principles it does only one thing, but tries to do it well.
+
+Jag was initially designed for engeneers who spend a bunch of time anal
+
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
