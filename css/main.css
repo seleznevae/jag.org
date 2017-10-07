@@ -108,8 +108,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  /*background: #F5F5F5;*/
-  background: #4C9ED9;
+  background: #F5F5F5;
+  /*background: #4C9ED9;*. /*SAE*/
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
@@ -131,6 +131,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: #404040;
+  /*color: #E0E0E0;*//*SAE*/
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -138,6 +139,7 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #0085a1;
+  /*color: #0799CE;*//*SAE*/
 }
 
 .navbar-custom .navbar-brand-logo {
