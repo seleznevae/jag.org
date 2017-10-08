@@ -23,6 +23,7 @@ navbar-links:
   About jag: "aboutjag"
   Gallery: "gallery"
   Getting started: "getting-started"
+  Download: "https://github.com/seleznevae/jag/releases"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
