@@ -19,7 +19,7 @@ During loading usually the dialog with available data source is shown. In this d
 
 ## Creating simple plots
 
-To create a new plot use menu **_Plot/New plot_** or a button on the top left side of the main window.
+To create a new plot use the menu item **_Plot/New plot_** or the button on the top left side of the main window.
 
 After that a menu shown where you can choose data you would like to draw. To choose a parameter just click on it. 
 
