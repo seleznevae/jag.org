@@ -22,7 +22,7 @@ Jag was initially designed for engineers who spend a bunch of time analyzing res
 ### Supported data formats 
 
 At the moment *jag* supports data *.csv
-format and data in simple table format. However, number of file formats than can be loaded may be extended by a user with custom plugins.
+format and data in simple table format. However, number of file formats that can be loaded may be extended by a user with custom plugins.
 
 
 ### Wishes
