@@ -32,6 +32,7 @@ By default all parameter will be considered by **jag** as functions of some inde
 Layout control is usually done by drag and drop.
 
 <img src="../img/getting-started/moving-graphs.gif" style="width:100%;" alt="Moving graphs gif" />
+<img src="../img/getting-started/layout-changing.gif" style="width:100%;" alt="Layout changing gif" />
 
 
 
@@ -67,6 +68,6 @@ You can calculate basic mathematical functions based on the graphs currently pre
 
 <img src="../img/getting-started/secondary-processing.gif" style="width:100%;" alt="Secondary processing gif" />
 
-In secondary processing dialog each graph is aliased ad g1, g2, ... gn. So to get sum of the first and the third graphs put **g1 + g3** to the function editing widget at the bottom of the secondary processing dialog.
+In secondary processing dialog each graph is aliased as g1, g2, ... gn. So, for example, to get the sum of the first and the third graphs put **g1 + g3** to the function editing widget at the bottom of the secondary processing dialog.
 
 At the moment a lot of base mathematical functions along with some signal processing functions are available.
