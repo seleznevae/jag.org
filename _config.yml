@@ -57,7 +57,7 @@ author:
   name: Seleznev Anton
   email: "seleznevae@protonmail.com"
   facebook: yourname  # eg. daattali
-  github: seleznevae    # eg. daattali
+  github: seleznevae/jag    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -96,10 +96,10 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false 
+  facebook: false 
   google: false
-  linkedin: true
+  linkedin: false 
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
