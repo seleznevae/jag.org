@@ -1,16 +1,32 @@
 ---
 layout: page
 title: About jag
-subtitle: "Everything should be made as simple as possible, but not simpler."
+subtitle: Fast as lightning
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Jag in a nutshell 
 
-What else do you need?
+**Jag** is a simple graphing application which can be used to create simple 2D plots. No bar charts, 3D graphs, surfaces, maps... **Only simple 2D plots!** So according to one of UNIX principles it does only one thing, but tries to do it well. 
 
-### my history
+Jag was initially designed for engineers who spend a bunch of time analyzing results of mathematical modeling so that they can get most out of their data. So the main goal was to simplify and speed up graph creation and layout manipulations. Jag can be extremely useful for users who create hundreds or thousands of graphs every day and analyze them interactively.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Jag allows to create pretty nice plots and to customize them in great detail in a few seconds. See [getting started](https://seleznevae.github.io/jag.org/getting-started/).
+
+### Jag featues
+
+- Fast and handy plot manipulations
+- Convenient graphical user interface
+- Base mathematical functions, including signal processin functions(fft, power spectrum, etc.), that can be applied to the graphs 
+- Support of creation custom plot styles with the desired background color, labels fonts, grid properties, etc.
+- Export to raster images.
+- Built-in filtering capabilities.
+
+### Extensions
+
+Number of supported data formats can be extended with custom plugins. See [extensions](https://github.com/seleznevae/jag).
+
+### License
+Jag is free software and  is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+
