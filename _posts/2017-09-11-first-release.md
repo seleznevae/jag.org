@@ -27,7 +27,7 @@ format and data in simple table format. However, number of file formats that can
 
 ### Wishes
 
-I hope you will like **jag** and find it usefull in everyday routine work. Feel free to post your suggestions and bug reports at [github issues](https://github.com/seleznevae/jag/issues).
+I hope you will like **jag** and find it useful in everyday routine work. Feel free to post your suggestions and bug reports at [github issues](https://github.com/seleznevae/jag/issues).
 
 
 <div class="get-started-wrap">

@@ -25,7 +25,7 @@ After that a menu shown where you can choose data you would like to draw. To cho
 
 <img src="../img/getting-started/create-simple-graph.gif" style="width:100%;" alt="Create simple graph gif" />
 
-By default all parameter will be considered by **jag** as functions of some independent argument (usually it is time or something like that). If you don't want to draw function _parameter1 = f(argument)_ but want to draw function _parameter1 = f(parameter2)_ use the left button of the mouser to choose _parameter1_ and the right button to choose _parameter2_ as an argument.
+By default all parameters will be considered by **jag** as functions of some independent argument (usually it is time or something like that). If you don't want to draw function _parameter1 = f(argument)_ but want to draw function _parameter1 = f(parameter2)_ use the left button of the mouser to choose _parameter1_ and the right button to choose _parameter2_ as an argument.
 
 ## Plot layouts
 
