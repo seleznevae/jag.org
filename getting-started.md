@@ -60,3 +60,13 @@ In this mode it possible to mark some events with vertical line (left button cli
 8. **Motion mode**
 
 9. **Fast secondary processing mode**
+
+## Secondary processing
+
+You can calculate basic mathematical functions based on the graphs currently presented on the plot.
+
+<img src="../img/getting-started/secondary-processing.gif" style="width:100%;" alt="Secondary processing gif" />
+
+In secondary processing dialog each graph is aliased ad g1, g2, ... gn. So to get sum of the first and the third graphs put **g1 + g3** to the function editing widget at the bottom of the secondary processing dialog.
+
+At the moment a lot of base mathematical functions along with some signal processing functions are available.
