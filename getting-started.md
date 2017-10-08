@@ -32,6 +32,7 @@ By default all parameter will be considered by **jag** as functions of some inde
 Layout control is usually done by drag and drop.
 
 <img src="../img/getting-started/moving-graphs.gif" style="width:100%;" alt="Moving graphs gif" />
+
 <img src="../img/getting-started/layout-changing.gif" style="width:100%;" alt="Layout changing gif" />
 
 
