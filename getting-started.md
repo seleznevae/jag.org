@@ -4,6 +4,10 @@ title: Getting started
 subtitle: #Some examples of jag usage
 ---
 
+## Data sources
+
+At the moment *jag* supports data source in [CSV format](https://en.wikipedia.org/wiki/Comma-separated_values) and data in simple table format. Examples of such files you can find in [jag repository](https://github.com/seleznevae/jag/tree/master/tlmExamples). Feel free to use them during getting familiar with **jag**.
+
 ## Loading data sources
 
 There are 2 main means to load your data source:
