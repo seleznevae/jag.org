@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bug fixed
+title: Bug fixes
 subtitle: jag v.0.1.1 released
 ---
 
