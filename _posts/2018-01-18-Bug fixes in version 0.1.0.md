@@ -4,7 +4,7 @@ title: Bug fixes
 subtitle: jag v.0.1.1 released
 ---
 
-I am happy to announce jag release with buf fixes[release](https://github.com/seleznevae/jag/releases). 
+I am happy to announce jag [release](https://github.com/seleznevae/jag/releases) with bug fixes. 
 
 
 
